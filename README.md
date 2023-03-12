@@ -5,7 +5,7 @@
 
 ## About Me
 - ✍ I am a student in computer science
-- 💻  Learning C#, JS.
+- 💻  Learning Java, JS.
 - 💙 Dev back end
 
 ## Technologies
